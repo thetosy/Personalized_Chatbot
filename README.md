@@ -1,7 +1,7 @@
 ## Retrieval Augumented Generation
 ![workflow.png](docs/workflow.png)
 
-Utilizing the LangChain framework<sup>[1](#Reference)</sup>, I made use of the Retrieval Augumented Generation workflow<sup>[2](#Reference)</sup>
+Utilizing the LangChain framework<sup>[1](##Reference)</sup>, I made use of the Retrieval Augumented Generation workflow<sup>[2](#Reference)</sup>
 to make a personalized chatbot proficient in accurately answering questions by accessing information in its 
 vector store. 
 
